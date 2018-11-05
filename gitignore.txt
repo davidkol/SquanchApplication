@@ -1,9 +1,9 @@
-Binaries
-Derived
-Data
-Cache
-Intermediate
-Saved
+Binaries/
+Derived/
+Data/
+Cache/
+Intermediate/
+Saved/
 
 *.VC.db
 *.opensdf
