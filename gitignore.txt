@@ -1,0 +1,23 @@
+Binaries
+Derived
+Data
+Cache
+Intermediate
+Saved
+
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.db-wal
+*.db-shm
+*BuiltData
+
+.uasset
+.vs/
+
+Blender Files/
