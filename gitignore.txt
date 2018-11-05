@@ -4,6 +4,7 @@ Data/
 Cache/
 Intermediate/
 Saved/
+Content/IgnoredAssets/
 
 *.VC.db
 *.opensdf
