@@ -18,8 +18,6 @@ Content/IgnoredAssets/
 *.db-shm
 *BuiltData
 
-.uasset
 .vs/
-
 Blender Files/
-
+*BuiltData.uasset/
