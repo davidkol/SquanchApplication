@@ -76,3 +76,9 @@ DerivedDataCache/*
 
 # Ignored Assets
 Content/IgnoredAssets/*
+
+# Video, Audio, Pictures
+*.wav
+*.mp4
+*.mp3
+*.png
